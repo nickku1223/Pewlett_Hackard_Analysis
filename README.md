@@ -23,3 +23,9 @@ Due to the large amount of employees reaching retiring age, Pewlett Hackard is p
 - From the list we can see there are 1,549 employees are eligible to the mentorship program, and the break down of the number as the image below:
 
 ![Mentorship eligibility counts](Resources/mentorship_count.png)
+
+# Summary
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
