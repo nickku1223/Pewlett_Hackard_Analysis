@@ -1,8 +1,7 @@
 # Pewlett_Hackard_Analysis
 
 # Overvie of the project
-Due to the large amount of employees reaching retiring age, Pewlett Hackard is planning to launch a mentoring program: Silver Tsunami. With this program, the employees who are reaching retiring age can mentor the eligible employees to receive the training and get prepared to step up to roles when the employees who reach retiring age step down or retired, also help to determine how many roles will need to be filled and the pairng for the mentoring program.
-
+Due to the large amount of employees reaching retiring age, Pewlett Hackard is planning to launch a mentoring program: Silver Tsunami. With this program, the employees who are reaching retiring age can mentor the eligible employees to receive the training and get prepared to step up to roles when the employees who reach retiring age step down or retired. And help filtering out the emoloyees who are eligible to the program.
 # Results
 - We created a list of retiring employees, including names, titiles and employee numbers.
 
